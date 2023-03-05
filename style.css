@@ -10,7 +10,7 @@ p {
     font-size: 1.1em;
     border-bottom: 1px solid #8e86b5;
     padding: 20px;
-    margin-bottom: 50px
+    margin-bottom: 50px;
 }
 
 .banniere,
@@ -24,7 +24,6 @@ footer {
 .element {
     font-size: 1.5em;
 }
-
  a{
     color: rgb(204, 0, 153);
     text-decoration: none;
@@ -182,5 +181,3 @@ h2 {
 ::-webkit-scrollbar-thumb:hover {
     background: rgb(101, 96, 130);
 }
-
-/*task failed succesfully*/
